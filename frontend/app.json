@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "LUCT Faculty System",
+    "slug": "luct-faculty-system",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#07101f"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.luct.facultysystem"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#07101f"
+      },
+      "package": "com.luct.facultysystem"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "plugins": ["expo-font"]
+  }
+}

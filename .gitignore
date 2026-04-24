@@ -1,0 +1,7 @@
+﻿# Ignore ALL node_modules
+**/node_modules/
+.expo/
+dist/
+*.log
+.env
+backend/config/serviceAccountKey.json
